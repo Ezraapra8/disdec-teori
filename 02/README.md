@@ -1,5 +1,4 @@
-# Ringkasan Materi Minggu 2 : Proses dan Komunikasi Antar Proses
-pada Sistem Terdistribusi
+# Ringkasan Materi Minggu 2 : Proses dan Komunikasi Antar Proses pada Sistem Terdistribusi
 
 | Field | Keterangan |
 | :--- | :--- |
