@@ -1,6 +1,7 @@
 # Ringkasan Materi Minggu 1 : Pengenalan Sistem Terdistribusi dan Terdesentralisasi
 
 Mata Kuliah     : Sistem Terdistribusi dan Terdesntralisasi
+
 Dosen Pengampu  : Dr. Bambang Purnomosidi D. P.
 
 ## Tujuan Pembelajaran
