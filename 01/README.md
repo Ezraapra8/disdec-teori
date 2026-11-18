@@ -1,5 +1,10 @@
 # Ringkasan Materi Minggu 1 : Pengenalan Sistem Terdistribusi dan Terdesentralisasi
 
+| Field | Keterangan |
+| :--- | :--- |
+| **Nama** | Ezra Adyatma Pranantio |
+| **NIM** | 255410002 |
+
 Mata Kuliah     : Sistem Terdistribusi dan Terdesntralisasi
 
 Dosen Pengampu  : Dr. Bambang Purnomosidi D. P.
